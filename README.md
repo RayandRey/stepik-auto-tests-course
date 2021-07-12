@@ -1,3 +1,6 @@
-# stepik-auto-tests-course
-homework  and tasks
-first commit
+# Stepik autotests course #
+
+This repository contains:
+- tasks
+- homeworks
+- to be continued...
